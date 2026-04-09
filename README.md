@@ -4,17 +4,13 @@ Queue prompts in Claude Code. Type `next: <prompt>` to queue tasks that auto-exe
 
 <img src="demo.png" width="66%">
 
-## Install
+## Install & Usage
 
 ```
 /plugin marketplace add ncvgl/claude-prompt-queue
 /plugin install prompt-queue@prompt-queue-marketplace
+next: do this
 ```
-
-## Usage
-
-1. Queue prompts while Claude is idle: `next: refactor the auth module`
-2. Queue as many as you want — they run in order
 
 ## How it works
 

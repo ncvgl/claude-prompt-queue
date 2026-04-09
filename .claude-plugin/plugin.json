@@ -1,11 +1,10 @@
 {
   "name": "prompt-queue",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Queue prompts to run sequentially. Type 'next: <prompt>' to queue, prompts auto-execute after the current task finishes.",
   "author": {
     "name": "mugen"
   },
   "license": "MIT",
-  "keywords": ["queue", "automation", "workflow"],
-  "hooks": "./hooks/hooks.json"
+  "keywords": ["queue", "automation", "workflow"]
 }

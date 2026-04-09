@@ -6,6 +6,5 @@
     "name": "mugen"
   },
   "license": "MIT",
-  "keywords": ["queue", "automation", "workflow"],
-  "hooks": "./hooks/hooks.json"
+  "keywords": ["queue", "automation", "workflow"]
 }

@@ -15,7 +15,6 @@ Queue prompts in Claude Code. Type `next: <prompt>` to queue tasks that auto-exe
 
 1. Queue prompts while Claude is idle: `next: refactor the auth module`
 2. Queue as many as you want — they run in order
-3. Submit a normal prompt — queued items execute after it finishes
 
 ## How it works
 

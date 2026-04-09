@@ -1,0 +1,16 @@
+{
+  "name": "prompt-queue-marketplace",
+  "owner": {
+    "name": "mugen"
+  },
+  "metadata": {
+    "description": "Prompt queue plugin for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "prompt-queue",
+      "source": "./",
+      "description": "Queue prompts to run sequentially after the current task finishes."
+    }
+  ]
+}

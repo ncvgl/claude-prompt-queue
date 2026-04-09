@@ -9,6 +9,7 @@ Queue prompts in Claude Code. Type `next: <prompt>` to queue tasks that auto-exe
 ```
 /plugin marketplace add ncvgl/claude-prompt-queue
 /plugin install prompt-queue@prompt-queue-marketplace
+/reload-plugins
 next: do this
 ```
 

@@ -2,7 +2,7 @@
 
 Queue prompts in Claude Code. Type `next: <prompt>` to queue tasks that auto-execute after the current one finishes.
 
-![Demo](demo.png)
+<img src="demo.png" width="33%">
 
 ## Install
 
